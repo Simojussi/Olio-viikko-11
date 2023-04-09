@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText itemInput;
+    public static EditText itemInput;
     private Item item;
 
     private RecyclerView rv;
